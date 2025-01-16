@@ -14,4 +14,4 @@ Automate game using `Python`
 4. `Automating Gameplay`: The system then uses PyAutoGUI to drag and drop the letters onto the game board to form the words and advance in the game.
 
 ## Demo
-https://raw.githubusercontent.com/krishsharma0413/words-of-wonders/refs/heads/main/examples/example%20video.mp4
+[![Watch the video](https://github.com/user-attachments/assets/bca08270-065c-4ffe-8199-9edbbf830867)](https://github.com/user-attachments/assets/bca08270-065c-4ffe-8199-9edbbf830867)
